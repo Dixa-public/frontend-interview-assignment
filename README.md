@@ -9,7 +9,7 @@
 ## About the assignment
 
 The assignment is deliberately open-ended and meant to be a conversation starter for the technical
-interview phase. There are no right or wrong answers here , we're looking
+interview phase. There are no right or wrong answers here, we're looking
 for something that's 100% you and that shows us your reasoning and how you approach your work. Feel free to also challenge us, if you need to.
 
 You have 2 options:
