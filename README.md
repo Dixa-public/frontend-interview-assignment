@@ -3,19 +3,19 @@
 
   <h3 align="center">Frontend Interview Assignment</h3>
 
-  <p align="center">As part of our application process, we would like you to complete this assignment. It should take no more than a few hours.</p>
+  <p align="center">As part of our application process, we would like you to complete this assignment. We don't set a time limit on the assignment, so it's up to you how much time and energy you put into it.</p>
 </div>
 
 ## About the assignment
 
 The assignment is deliberately open-ended and meant to be a conversation starter for the technical
-interview phase. There are no right or wrong answers here, we're looking
-for something that's 100% you.
+interview phase. There are no right or wrong answers here , we're looking
+for something that's 100% you and that shows us your reasoning and how you approach your work. Feel free to also challenge us, if you need to.
 
 You have 2 options:
 
 1. Create a new component that you would like us to review
-   and discuss during the interview.
+   and discuss during the technical interview.
 2. Improve an existing component by modifying it and
    documenting your changes.
 
@@ -65,10 +65,11 @@ You have 2 options:
 All of the components are placed in `src/components/`
 directory, along with their respective Storybook stories, although not all components are documented.
 
-Currently the `Icon` component internally uses free
-`font-awesome` icons. Please see the
-[list](https://fontawesome.com/icons?m=free) of expected
-`name` values.
+The `Icon` component uses free
+`font-awesome` icons internally. Please see the
+[list](https://fontawesome.com/search?m=free&o=r) of expected values.
+
+The project should have everything you need to get you started, so you can focus at the task at hand. But you are of course welcome to change or improve anything in the overall setup of the project, like file and folder structure, naming conventions or development setup, should you find it necessary.
 
 ### Contribution guidelines
 
@@ -76,13 +77,14 @@ There are no strict contribution guidelines for this
 assignment, instead you are expected to showcase your
 expertise in whatever way you see fit.
 
-As a minimum however, code should be written in TypeScript
+As a minimum however, code should be written in [TypeScript](https://www.typescriptlang.org/)
 and be relatively well-typed, as well as components should
-be documented in Storybook. We use CSS Modules for working
+be documented in [Storybook](https://storybook.js.org/). We use `CSS Modules` for working
 with CSS, and you can either choose to follow the same
 approach, improve it, or replace it with your own preferred
-solution, as long as you can demonstrate why your approach
-is better.
+solution, as long as you can demonstrate why your approach would be beneficial.
+
+
 
 ## Submitting your solution
 
